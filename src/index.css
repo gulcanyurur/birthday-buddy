@@ -132,6 +132,11 @@ ul {
   object-fit: cover;
 }
 /* buttons */
+.buttons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
 
 .btn {
   cursor: pointer;
