@@ -11,7 +11,7 @@ const App = () => {
       <section className="container">
         <h3>{people.length}  birthdays today</h3>
         <List people ={people} />
-        <button type='button'className='btn'>clear all</button>
+        <button type='button'className='btn btn-block'>clear all</button>
       </section>
     </main>
   );
